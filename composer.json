@@ -1,0 +1,12 @@
+{
+    "name": "socialvine/pulse-twitter",
+    "authors": [
+        {
+            "name": "neerajsohal",
+            "email": "hello@neerajkumar.name"
+        }
+    ],
+    "require": {
+        "socialvine/pulse": "0.0.1"
+    }
+}
