@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8aaa7cb5046f9f4b0a64a1b60f2cbd7d",
-    "content-hash": "76d2a3859f33650bc45eb1b1c16886c3",
+    "hash": "54833fac8ecca06b1554d0ae7c71e7bf",
+    "content-hash": "4b1e9bd9b50125be7702317c0abaad12",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -240,7 +240,7 @@
         },
         {
             "name": "socialvine/pulse",
-            "version": "0.0.1",
+            "version": "0.0.0",
             "dist": {
                 "type": "path",
                 "url": "/Users/neerajsohal/lab/projects/socialvine/pulse",
