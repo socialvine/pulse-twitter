@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5eae4225d851f04f151fc1c2e934ed72",
-    "content-hash": "6f7ff8dca8f7490a45b1233e1b162748",
+    "hash": "2ab5eeb80f83f071bfdb27a6aa5d7721",
+    "content-hash": "adb759ffc7abd99b34b78c2ac7847775",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -189,56 +189,6 @@
             "time": "2017-03-20 17:10:46"
         },
         {
-            "name": "j7mbo/twitter-api-php",
-            "version": "1.0.6",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/J7mbo/twitter-api-php.git",
-                "reference": "443d22c53d621b3cc6b7e0c56daa60c5ada033f7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/J7mbo/twitter-api-php/zipball/443d22c53d621b3cc6b7e0c56daa60c5ada033f7",
-                "reference": "443d22c53d621b3cc6b7e0c56daa60c5ada033f7",
-                "shasum": ""
-            },
-            "require": {
-                "ext-curl": "*"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.5,>=4.5.1"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0-dev"
-                }
-            },
-            "autoload": {
-                "classmap": [
-                    "TwitterAPIExchange.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GNU Public License"
-            ],
-            "authors": [
-                {
-                    "name": "James Mallison",
-                    "homepage": "https://github.com/j7mbo/twitter-api-php"
-                }
-            ],
-            "description": "Simple PHP Wrapper for Twitter API v1.1 calls",
-            "homepage": "https://github.com/j7mbo/twitter-api-php",
-            "keywords": [
-                "api",
-                "php",
-                "twitter"
-            ],
-            "time": "2017-05-08 12:10:56"
-        },
-        {
             "name": "psr/http-message",
             "version": "1.0.1",
             "source": {
@@ -290,11 +240,11 @@
         },
         {
             "name": "socialvine/pulse",
-            "version": "0.0.0",
+            "version": "0.0.1",
             "dist": {
                 "type": "path",
                 "url": "/Users/neerajsohal/lab/projects/socialvine/pulse",
-                "reference": "c36135b8eda99ae7faee5f06dc6b8bde0be8595e",
+                "reference": "98fb1c7da7b3f000ab7adc0809ec2d4adb714531",
                 "shasum": null
             },
             "require": {
@@ -303,7 +253,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Socialvine\\Pulse\\": "src/socialvine/pulse"
+                    "Socialvine\\": "src/socialvine"
                 }
             },
             "authors": [
