@@ -1,6 +1,6 @@
 {
     "name": "socialvine/pulse-twitter",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "neerajsohal",
@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "socialvine/pulse": "0.0.0"
+        "socialvine/pulse": "0.0.1"
     },
     "autoload": {
         "psr-4": {
