@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "socialvine/pulse": "~0.1.1"
+        "socialvine/pulse": "^0.1.1"
     },
     "autoload": {
         "psr-4": {
